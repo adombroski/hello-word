@@ -1,0 +1,4 @@
+Test file added.
+
+This is to test how it shows new files in repository via the GitHub Desktop client. 
+
